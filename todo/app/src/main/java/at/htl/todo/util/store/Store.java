@@ -2,7 +2,6 @@ package at.htl.todo.util.store;
 
 import java.util.concurrent.CompletionException;
 import java.util.function.Consumer;
-
 import at.htl.todo.util.immer.Immer;
 import io.reactivex.rxjava3.subjects.BehaviorSubject;
 
